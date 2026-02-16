@@ -1,8 +1,8 @@
 package com.kc.project3GUI.service;
 
-import com.kc.dao.EmployeeDao;
-import com.kc.dto.Employee;
-import com.kc.factory.EmployeeDaoFactory;
+import com.kc.project3GUI.dao.EmployeeDao;
+import com.kc.project3GUI.dto.Employee;
+import com.kc.project3GUI.factory.EmployeeDaoFactory;
 
 public class EmployeeSearviceImpl implements  EmployeeService{
     @Override

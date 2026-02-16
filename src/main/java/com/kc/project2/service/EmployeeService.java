@@ -1,6 +1,6 @@
 package com.kc.project2.service;
 
-import com.kc.dto.Employee;
+import com.kc.project2.dto.Employee;
 
 public interface EmployeeService {
     public String addEmployee(Employee employee);

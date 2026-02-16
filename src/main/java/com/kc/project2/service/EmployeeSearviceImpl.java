@@ -1,8 +1,8 @@
 package com.kc.project2.service;
 
-import com.kc.dao.EmployeeDao;
-import com.kc.dto.Employee;
-import com.kc.factory.EmployeeDaoFactory;
+import com.kc.project2.dao.EmployeeDao;
+import com.kc.project2.dto.Employee;
+import com.kc.project2.factory.EmployeeDaoFactory;
 
 public class EmployeeSearviceImpl implements  EmployeeService{
     @Override

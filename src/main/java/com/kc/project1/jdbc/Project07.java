@@ -1,7 +1,7 @@
 package com.kc.project1.jdbc;
 
 
-import com.kc.factory.ConnectionFactory;
+import com.kc.project1.factory.ConnectionFactory;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

@@ -1,7 +1,7 @@
 package com.kc.project2.factory;
 
-import com.kc.dao.EmployeeDao;
-import com.kc.dao.EmployeeDaoImpl;
+import com.kc.project2.dao.EmployeeDao;
+import com.kc.project2.dao.EmployeeDaoImpl;
 
 public class EmployeeDaoFactory {
     private static EmployeeDao employeeDao;

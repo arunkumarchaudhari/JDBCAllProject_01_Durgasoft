@@ -1,7 +1,7 @@
 package com.kc.project2.factory;
 
-import com.kc.service.EmployeeSearviceImpl;
-import com.kc.service.EmployeeService;
+import com.kc.project2.service.EmployeeSearviceImpl;
+import com.kc.project2.service.EmployeeService;
 
 public class EmployeeServiceFactory {
     private static EmployeeService employeeService;

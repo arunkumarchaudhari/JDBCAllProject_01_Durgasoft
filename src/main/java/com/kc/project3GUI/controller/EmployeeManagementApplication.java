@@ -1,9 +1,9 @@
 package com.kc.project3GUI.controller;
 
-import com.kc.dto.Employee;
-import com.kc.factory.ConnectionFactory;
-import com.kc.factory.EmployeeServiceFactory;
-import com.kc.service.EmployeeService;
+import com.kc.project3GUI.dto.Employee;
+import com.kc.project3GUI.factory.ConnectionFactory;
+import com.kc.project3GUI.factory.EmployeeServiceFactory;
+import com.kc.project3GUI.service.EmployeeService;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

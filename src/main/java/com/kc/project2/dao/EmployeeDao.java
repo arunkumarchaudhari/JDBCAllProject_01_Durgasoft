@@ -1,6 +1,6 @@
 package com.kc.project2.dao;
 
-import com.kc.dto.Employee;
+import com.kc.project2.dto.Employee;
 
 public interface EmployeeDao {
     public String addEmployee(Employee employee);

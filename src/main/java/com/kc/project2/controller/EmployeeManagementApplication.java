@@ -1,9 +1,9 @@
 package com.kc.project2.controller;
 
-import com.kc.dto.Employee;
-import com.kc.factory.ConnectionFactory;
-import com.kc.factory.EmployeeServiceFactory;
-import com.kc.service.EmployeeService;
+import com.kc.project2.dto.Employee;
+import com.kc.project2.factory.ConnectionFactory;
+import com.kc.project2.factory.EmployeeServiceFactory;
+import com.kc.project2.service.EmployeeService;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

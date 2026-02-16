@@ -1,7 +1,7 @@
 package com.kc.project3GUI.dao;
 
-import com.kc.dto.Employee;
-import com.kc.factory.ConnectionFactory;
+import com.kc.project3GUI.dto.Employee;
+import com.kc.project3GUI.factory.ConnectionFactory;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

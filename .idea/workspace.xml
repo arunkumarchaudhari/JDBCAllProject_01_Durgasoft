@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c67737ca-3e72-4095-8c1e-dd674c18e256" name="Changes" comment="" />
+    <list default="true" id="c67737ca-3e72-4095-8c1e-dd674c18e256" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kc/project4/rowSet/Application9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project1/jdbc/Project07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project1/jdbc/Project07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project2/controller/EmployeeManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project2/controller/EmployeeManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project2/dao/EmployeeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project2/dao/EmployeeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project2/dao/EmployeeDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project2/dao/EmployeeDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project2/factory/EmployeeDaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project2/factory/EmployeeDaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project2/factory/EmployeeServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project2/factory/EmployeeServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project2/service/EmployeeSearviceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project2/service/EmployeeSearviceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project2/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project2/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/controller/EmployeeManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/controller/EmployeeManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/dao/EmployeeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/dao/EmployeeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/dao/EmployeeDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/dao/EmployeeDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/factory/EmployeeDaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/factory/EmployeeDaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/factory/EmployeeServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/factory/EmployeeServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/gui/practice01/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/gui/practice02/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/gui/practice02/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/service/EmployeeSearviceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/service/EmployeeSearviceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kc/project3GUI/service/EmployeeService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,27 +45,82 @@
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
+      <entry key="_/home/arunkc/Desktop/Courses/Adv Java/JDBCProj" value="39l3VrOS8ga2YoBUE8LDYhd3uNw" />
       <entry key="_/home/arunkc/Desktop/Courses/Adv Java/JDBCProj04" value="39hBtoz1MQqMSch5u1xRNS8mjad" />
     </persistenceIdMap>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "arunkumarchaudhari"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:arunkumarchaudhari/JDBCAllProject_01_Durgasoft.git",
+    "accountId": "e33023d1-5f56-444d-8800-2c69cfa254c2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="39hBtoz1MQqMSch5u1xRNS8mjad" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Application1.executor": "Run",
+    "Application.Application10.executor": "Run",
+    "Application.Application11.executor": "Run",
+    "Application.Application2.executor": "Run",
+    "Application.Application3.executor": "Run",
+    "Application.Application4.executor": "Run",
+    "Application.Application5.executor": "Run",
+    "Application.Application6.executor": "Run",
+    "Application.Application7.executor": "Run",
+    "Application.Application8.executor": "Run",
+    "Application.Application9.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/arunkc/Desktop/Courses/Adv Java/JDBCProj",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kc.project4.rowSet" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JDBCProj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,6 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771138642131</updated>
       <workItem from="1771138643222" duration="2000" />
+      <workItem from="1771256859265" duration="9808000" />
     </task>
     <servers />
   </component>
